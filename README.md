@@ -2,6 +2,8 @@
 
 Your own Voice Personal Asistant: Voice to Text to LLM to Speech, displayed in a web interface.
 
+![Иллюстрация к болталке](https://github.com/asdaroot/Voice_Assistant/blob/main/media/voice_assistant.jpg)
+
 ## How it works
 
 1. :microphone: The user speaks into the microphone
